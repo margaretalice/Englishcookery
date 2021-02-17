@@ -4,6 +4,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -13,7 +14,7 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    background-color:bisque;
+    background-color:#f3e5ab;
   }
 
 main {
